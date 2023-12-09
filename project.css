@@ -1,0 +1,525 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Tahoma, sans-serif;
+}
+
+.store {
+    /* display: flex; */
+}
+
+.logo-box {
+    width: 60px;
+    height: 59px;
+    margin: 12px 0px;
+}
+
+.explorer {
+    display: flex;
+
+}
+
+.explorer p {
+    color: black;
+    position: relative;
+    top: 10%;
+    font-size: 45%;
+
+}
+
+
+#icon {
+    color: brown;
+}
+
+#icon h1 {
+    margin: 5px 0px;
+    position: relative;
+    top: 25%;
+}
+
+#logo {
+    display: flex;
+    margin: 20px 15px;
+    font-size: 1.0rem;
+
+
+}
+
+.icons a {
+    margin: 0px 0px;
+    color: black;
+    font-size: 100%;
+    text-decoration: none;
+}
+
+.icons {
+    margin: 0px 20px;
+}
+
+.icons i:hover {
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.icons a:hover {
+    color: brown;
+}
+
+.enquiry {
+    display: flex;
+    margin: 0px 80px;
+    justify-content: space-between;
+}
+
+.sign a {
+    color: red;
+    text-decoration: none;
+}
+
+.sign a:hover {
+    color: brown;
+}
+
+.login {
+    background-color: brown;
+    color: white;
+    border-radius: 5px;
+    border: 5px solid brown;
+    margin: 0px 10px;
+    width: 100%;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    top: 0px;
+    position: sticky;
+    z-index: 2;
+    background-color: black;
+    padding: 0px 50px;
+}
+.make img{
+    width: 30px;
+    margin: 22px 0px;
+    height: 30px;
+}
+
+.acer {
+    display: flex;
+    margin: -10px 0px -14px 0px;
+
+}
+
+.ryan p {
+    color: white;
+    position: relative;
+    margin: 0px 5px;
+    top: -30%;
+    font-size: 45%;
+
+}
+
+.acer h1 {
+    color: brown;
+    padding: 0px 6px;
+
+}
+
+.item {
+    display: flex;
+    text-align: center;
+    justify-content: end;
+
+}
+
+.item a {
+    color: gray;
+    margin: 30px;
+    text-decoration: none;
+
+}
+
+.item li a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.item li a.active {
+    color: brown;
+    text-decoration: underline;
+
+}
+
+.hello {
+    height: 400px;
+    width: 1200px !important;
+    margin: 0px 40px;
+}
+
+.submit {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    z-index: 1;
+}
+
+.submit {
+    display: flex;
+}
+
+.submit img {
+    width: 10px;
+}
+
+.searchbox {
+    margin: 0px -7px;
+    opacity: 0.5;
+    height: 25px;
+    width: 245px;
+}
+
+.hbox {
+    width: 38px;
+    opacity: 0.5;
+    height: 30px;
+}
+
+
+
+#search {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /* opacity: 0; */
+    /* background: none; */
+}
+
+.holder {
+    opacity: 2;
+    margin: 20px;
+}
+
+.fa-solid fa-display {
+    width: 80%;
+}
+
+
+.offer {
+    display: flex;
+}
+
+.computer {
+    margin: 75px 0px 100px 100px
+}
+
+.computer img {
+    width: 450%;
+}
+
+
+
+.offer {
+    width: 140%;
+    color: rgb(148, 148, 148);
+}
+
+.offers {
+    width: 138%;
+}
+
+.made {
+    margin: 85px 350px;
+}
+
+.find {
+    display: flex;
+}
+
+
+
+#display {
+    text-align: center;
+    justify-content: space-evenly;
+    height: 80vh;
+}
+
+.bed {
+    line-height: 0rem !important;
+    display: flex;
+    margin: 100px 40px;
+    text-align: center;
+
+}
+
+#dining {
+    margin: 120px 0px;
+    text-align: center;
+}
+
+
+.story {
+    margin: 0px 35px;
+    justify-content: space-between;
+    line-height: 0px;
+    text-align: center;
+}
+
+.story p {
+    margin: 0px 0px;
+    position: relative;
+    bottom: 25px;
+    left: 18%;
+}
+
+.fa-2xl {
+    height: 60px !important;
+    width: 0px !important;
+    /* font-size: 2.8rem !important; */
+    color: brown;
+    background-color: black;
+    margin: 0px 60px;
+    line-height: 0px !important;
+}
+.fa-2xl:hover {
+    height: 60px !important;
+    width: 0px !important;
+    font-size: 2.4rem !important;
+    color: brown;
+    background-color: black;
+    margin: 0px 60px;
+    line-height: 0px !important;
+}
+
+
+
+.rose {
+    position: relative;
+    top: 0px;
+}
+
+.rosa {
+    position: relative;
+    top: 120px;
+}
+
+
+.tav {
+    margin: 0px 30px;
+    text-align: center;
+    height: 0rem;
+    font-size: 10px;
+}
+
+.red {
+    color: red;
+}
+
+#furniture {
+    background-color: rgb(241, 241, 241);
+    display: flex;
+    text-align: start;
+}
+
+#postpaid {
+    color: brown;
+}
+
+.konw {
+    background-color: brown;
+    color: white;
+    margin: 0px 10px 0px 0px;
+    border-radius: 5px;
+    border: 5px solid brown;
+    width: 30%;
+    height: 2.3rem;
+}
+.konw:hover{
+    background-color: white;
+    color: brown;
+    margin: 0px 10px 0px 0px;
+    border-radius: 5px;
+    border: 2px solid black;
+    width: 30%;
+    height: 2.3rem;
+}
+.more:hover{
+    background-color: brown;
+    color: white;
+    margin: 0px 10px 0px 0px;
+    border-radius: 5px;
+    border: 2px solid brown;
+    width: 30%;
+    height: 2.3rem;
+}
+
+.sharp {
+    color: black;
+    margin: 0px 5px;
+}
+
+.more {
+    color: black;
+    border-radius: 5px;
+    border: 2px solid;
+    width: 30%;
+    /* height: 2.3rem; */
+}
+
+.popul {
+    text-align: center;
+    font-size: 25px;
+}
+
+.prime {
+    text-align: center;
+    width: 64%;
+    margin: 50px 217px;
+    font-size: 19px;
+}
+
+.slider {
+    display: flex;
+    /* height: 50vh; */
+    /* align-items: center; */
+}
+
+
+.box {
+    width: 245px;
+    position: relative;
+    margin: 40px 25px;
+    overflow: hidden;
+    background-color: rgb(234 234 238);
+
+}
+
+.box img {
+    width: 100%;
+    height: auto;
+}
+
+.box h1 {
+    margin: 0px 15px;
+}
+
+.box p {
+    margin: 20px 15px;
+}
+
+.vivo {
+    margin: 20px 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.hunter {
+    color: aliceblue;
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.hunter p {
+    background-color: aliceblue;
+    color: brown;
+    width: 80%;
+    text-align: center;
+    padding: 10px;
+    border-radius: 3px;
+    margin: 50px 8px;
+}
+
+.hunter i {
+    margin: 0px 20px;
+}
+
+.box:hover .hunter {
+    left: 0;
+}
+
+.card .img img {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+}
+
+
+#customer {
+    /* display: flex; */
+}
+
+.bulk {
+    text-align: center;
+    width: 50%;
+    display: flex;
+    font-size: 15px;
+    color: #bab7b7;
+    margin: -30px 0px 0px 297px;
+}
+
+.heard {
+    border: 1px solid black;
+    margin: 20px;
+    width: 100%;
+    height: 50vh;
+    background-color: #f8f7f7;
+}
+
+.heard p {
+    width: 75%;
+    padding: 35px;
+    margin: 0px 10px;
+}
+
+.cosmik {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.uttar h1 {
+    align-items: center;
+}
+
+.hub p {
+    width: 75%;
+    padding: 35px;
+    margin: 0px 10px;
+
+}
+
+.hub {
+    margin: 20px 30px;
+
+}
+
+.hub i {
+    color: brown;
+    width: 25px;
+}
+
+
+.Coupons{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.information{
+    margin: 0px 80px;
+}
+.products{
+    margin: 0px 80px;
+}
+.follow{
+    margin: 0px 80px;
+}
